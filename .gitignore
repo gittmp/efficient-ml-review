@@ -6,3 +6,4 @@
 *.fls
 *.log
 *.gz
+.DS_Store
