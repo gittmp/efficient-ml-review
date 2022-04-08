@@ -1,0 +1,32 @@
+\contentsline {section}{\numberline {1}Introduction}{3}%
+\contentsline {subsection}{\numberline {1.1}Background}{3}%
+\contentsline {subsection}{\numberline {1.2}Overview of Review}{4}%
+\contentsline {section}{\numberline {2}Literature Review}{5}%
+\contentsline {subsection}{\numberline {2.1}The Issue of Energy Consumption}{5}%
+\contentsline {subsubsection}{\numberline {2.1.1}Quantifying the Issue}{5}%
+\contentsline {subsubsection}{\numberline {2.1.2}Environmental Impacts}{6}%
+\contentsline {subsubsection}{\numberline {2.1.3}Social Impacts}{7}%
+\contentsline {subsubsection}{\numberline {2.1.4}Research Issues}{7}%
+\contentsline {subsubsection}{\numberline {2.1.5}Benefits of Red AI}{8}%
+\contentsline {subsection}{\numberline {2.2}Promoting Energy Efficiency}{8}%
+\contentsline {subsubsection}{\numberline {2.2.1}Reporting Resources}{8}%
+\contentsline {subsubsection}{\numberline {2.2.2}Efficiency Metrics}{9}%
+\contentsline {subsubsection}{\numberline {2.2.3}Designing Efficient Systems}{9}%
+\contentsline {subsubsection}{\numberline {2.2.4}Data Efficiency}{10}%
+\contentsline {subsubsection}{\numberline {2.2.5}Quantifying Energy Usage}{10}%
+\contentsline {subsection}{\numberline {2.3}Improving Energy Efficiency through Hardware}{11}%
+\contentsline {subsubsection}{\numberline {2.3.1}GPU Accelerators}{11}%
+\contentsline {subsubsection}{\numberline {2.3.2}TPU Accelerators}{12}%
+\contentsline {subsubsection}{\numberline {2.3.3}Efficient Hardware and Green AI}{12}%
+\contentsline {subsection}{\numberline {2.4}Improving Energy Efficiency through Software}{13}%
+\contentsline {subsubsection}{\numberline {2.4.1}Efficient ML Packages}{13}%
+\contentsline {subsubsection}{\numberline {2.4.2}Lightweight Network Architectures}{14}%
+\contentsline {subsubsection}{\numberline {2.4.3}Lightweight Operations}{15}%
+\contentsline {subsubsection}{\numberline {2.4.4}Progressive Training}{16}%
+\contentsline {subsubsection}{\numberline {2.4.5}Transfer Learning}{16}%
+\contentsline {subsubsection}{\numberline {2.4.6}Hyperparameter Optimisation}{17}%
+\contentsline {subsubsection}{\numberline {2.4.7}Reducing Precision and Accuracy}{18}%
+\contentsline {subsubsection}{\numberline {2.4.8}Data Efficiency}{18}%
+\contentsline {subsubsection}{\numberline {2.4.9}Future Directions}{19}%
+\contentsline {section}{\numberline {3}Future Work}{19}%
+\contentsline {section}{\numberline {4}Conclusions}{20}%
