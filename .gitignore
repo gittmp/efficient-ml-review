@@ -6,4 +6,7 @@
 *.fls
 *.log
 *.gz
+*.toc
+*.bcf
+report.run.xml
 .DS_Store
