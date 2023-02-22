@@ -1,0 +1,32 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Background}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Overview of Review}{section.1}% 3
+\BOOKMARK [1][-]{section.2}{Literature Review}{}% 4
+\BOOKMARK [2][-]{subsection.2.1}{The Issue of Energy Consumption}{section.2}% 5
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Quantifying the Issue}{subsection.2.1}% 6
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Environmental Impacts}{subsection.2.1}% 7
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Social Impacts}{subsection.2.1}% 8
+\BOOKMARK [3][-]{subsubsection.2.1.4}{Research Issues}{subsection.2.1}% 9
+\BOOKMARK [3][-]{subsubsection.2.1.5}{Benefits of Red AI}{subsection.2.1}% 10
+\BOOKMARK [2][-]{subsection.2.2}{Promoting Energy Efficiency}{section.2}% 11
+\BOOKMARK [3][-]{subsubsection.2.2.1}{Reporting Resources}{subsection.2.2}% 12
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Efficiency Metrics}{subsection.2.2}% 13
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Designing Efficient Systems}{subsection.2.2}% 14
+\BOOKMARK [3][-]{subsubsection.2.2.4}{Data Efficiency}{subsection.2.2}% 15
+\BOOKMARK [3][-]{subsubsection.2.2.5}{Quantifying Energy Usage}{subsection.2.2}% 16
+\BOOKMARK [2][-]{subsection.2.3}{Improving Energy Efficiency through Hardware}{section.2}% 17
+\BOOKMARK [3][-]{subsubsection.2.3.1}{GPU Accelerators}{subsection.2.3}% 18
+\BOOKMARK [3][-]{subsubsection.2.3.2}{TPU Accelerators}{subsection.2.3}% 19
+\BOOKMARK [3][-]{subsubsection.2.3.3}{Efficient Hardware and Green AI}{subsection.2.3}% 20
+\BOOKMARK [2][-]{subsection.2.4}{Improving Energy Efficiency through Software}{section.2}% 21
+\BOOKMARK [3][-]{subsubsection.2.4.1}{Efficient ML Packages}{subsection.2.4}% 22
+\BOOKMARK [3][-]{subsubsection.2.4.2}{Lightweight Network Architectures}{subsection.2.4}% 23
+\BOOKMARK [3][-]{subsubsection.2.4.3}{Lightweight Operations}{subsection.2.4}% 24
+\BOOKMARK [3][-]{subsubsection.2.4.4}{Progressive Training}{subsection.2.4}% 25
+\BOOKMARK [3][-]{subsubsection.2.4.5}{Transfer Learning}{subsection.2.4}% 26
+\BOOKMARK [3][-]{subsubsection.2.4.6}{Hyperparameter Optimisation}{subsection.2.4}% 27
+\BOOKMARK [3][-]{subsubsection.2.4.7}{Reducing Precision and Accuracy}{subsection.2.4}% 28
+\BOOKMARK [3][-]{subsubsection.2.4.8}{Data Efficiency}{subsection.2.4}% 29
+\BOOKMARK [3][-]{subsubsection.2.4.9}{Future Directions}{subsection.2.4}% 30
+\BOOKMARK [1][-]{section.3}{Future Work}{}% 31
+\BOOKMARK [1][-]{section.4}{Conclusions}{}% 32
