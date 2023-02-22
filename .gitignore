@@ -8,5 +8,6 @@
 *.gz
 *.toc
 *.bcf
+*.toc
 report.run.xml
 .DS_Store
